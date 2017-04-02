@@ -1,6 +1,6 @@
-#BacktrackingRecursion
+# BacktrackingRecursion
 
-##Program Description:
+## Program Description:
 
 This program uses recursion to solve  the given problem.
 The program is run from the command line and is given at least one argument, which is the name of a file 
@@ -38,7 +38,7 @@ source words, one per line. If it is present, the program does not enter the abo
 Instead it reads from this file and processes the words in it one by one.
 
 
-##Program Tasks:
+## Program Tasks:
 
 If there is just one argument, then after the program has read and stored the dictionary, it should repeatedly
 prompt the user to enter a string of at least 2 and at most 32 characters. If the user enters a word that is
